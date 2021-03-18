@@ -1,0 +1,16 @@
+612443e HEAD@{0}: merge develop: Fast-forward
+193d9ac HEAD@{1}: checkout: moving from develop to main
+612443e HEAD@{2}: commit (merge): resolved merge conflict
+415b3aa HEAD@{3}: merge images: Fast-forward
+5f6081a HEAD@{4}: checkout: moving from styles to develop
+5f53708 HEAD@{5}: commit: changed index.html
+e6276a0 HEAD@{6}: commit: added styles
+5f6081a HEAD@{7}: checkout: moving from develop to styles
+5f6081a HEAD@{8}: checkout: moving from images to develop
+415b3aa HEAD@{9}: commit: added images sources to index.html
+2baacb7 HEAD@{10}: commit: added images
+5f6081a HEAD@{11}: checkout: moving from develop to images
+5f6081a HEAD@{12}: commit: created index.html
+193d9ac HEAD@{13}: checkout: moving from main to develop
+193d9ac HEAD@{14}: commit: created readme.txt in task1.1
+6abf969 HEAD@{15}: clone: from https://github.com/romanshved/DevOps_online_Lviv_2021_Q2.git
