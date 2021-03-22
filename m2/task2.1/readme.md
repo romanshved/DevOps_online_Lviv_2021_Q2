@@ -33,8 +33,11 @@ Part 3
 
 I downloaded Vagrant, followed steps 1-7 and here are the results:
 Initialized environment with "vagrant init hashicorp/precise64" and run "vagrant up" results: <img src="screenshots/Screenshot_19.png">
+
 Connected with PuTTY and recorded date: <img src="screenshots/Screenshot_22.png">
+
 Halt and destroy commands result: <img src="screenshots/Screenshot_13.png">
+
 Creation of my own Vagrant box result: <img src="screenshots/Screenshot_16.png">
 
 
