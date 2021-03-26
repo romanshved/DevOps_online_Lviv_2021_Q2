@@ -26,5 +26,4 @@ application or better other application with custom settings.) result:
 <img src="screenshots/Screenshot_37.png">
 
 After that I created a static website on Amazon S3 using my custom domain and provided it with all necessary information, listed in Task 2.2, step 15.
-You can visit my site clicking <a href="https://shved.tk">here</a> 
-or here <a href="https://www.shved.tk">MY STATIC AMAZON S3 WEBSITE</a>
+Here is my site: http://shved.tk
