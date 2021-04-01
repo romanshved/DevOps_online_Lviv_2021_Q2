@@ -22,6 +22,10 @@ Part 2
 Here I made a backup of my db, deleted a table and then restored the db from the backup:
 <img src="screenshots/Screenshot_5.png">
 
+Then I transferred my local db to AWS RDS and connected to it:
+<img src="screenshots/Screenshot_9.png">
+<img src="screenshots/Screenshot_8.png">
+
 
 Part 3
 I created an Amazon DynamoDB table, entered some data and tried to use Query and Scan:
