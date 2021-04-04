@@ -26,6 +26,7 @@ Then I transferred my local db to AWS RDS and connected to it:
 <img src="screenshots/Screenshot_9.png">
 <img src="screenshots/Screenshot_8.png">
 
+Also I executed few SELECT commands and created a dump file of the db
 
 Part 3
 I created an Amazon DynamoDB table, entered some data and tried to use Query and Scan:
