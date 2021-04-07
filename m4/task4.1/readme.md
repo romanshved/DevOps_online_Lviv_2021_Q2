@@ -31,7 +31,7 @@ Part 3
 <img src="screenshots/17.png">
 <img src="screenshots/18.png">
 
-13.
+13.The difference between Topology 1 and Topology 3 is that in the first one we use hub and in the second the switch is used. That means in the first case the packet sent from one node is available for all nodes in the network, while in the second case switch filters and forwards the packet between two particular nodes.
 
 
 Part 4
@@ -42,3 +42,4 @@ Part 4
 18-22. I added a router between two switches and configured the network to work properly
 <img src="screenshots/20.png">
 
+23.Topology 5 differs from Topology 4 in presence of the router. That means using router we can divide network into LANs or WANs. Also, unlike switch, router doesnt't always send packets straightly between two nodes, it searches the best path to do it.
