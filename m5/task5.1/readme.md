@@ -23,12 +23,15 @@ PCPU).
 6.I explored more and less commands possibilities and also viewed the contents of .bashr file
 <img src="screenshots/30.png">
 
-7.<img src="screenshots/36.png">
+7.
+<img src="screenshots/36.png">
 
-8.<img src="screenshots/13.png">
+8.
+<img src="screenshots/13.png">
 
 
 Part 2
+
 1.When you need to display all files with specific character or sequence of characters, you can use this: tree -P <i>character</i>.
 When you need to define nesting levels quantity (for example 2), you might use tree -L 2
 <img src="screenshots/31.png">
@@ -41,22 +44,26 @@ When you need to define nesting levels quantity (for example 2), you might use t
 -l and -a uses a long listing format and doesn't ignore entries starting with . respectively.
 <img src="screenshots/15.png">
 
-5.<img src="screenshots/33.png">
+5.
+<img src="screenshots/33.png">
 <img src="screenshots/32.png">
 <img src="screenshots/17.png">
 <img src="screenshots/19.png">
 
-6.<img src="screenshots/20.png">
+6.
+<img src="screenshots/20.png">
 <img src="screenshots/21.png">
 <img src="screenshots/22.png">
 <img src="screenshots/23.png">
 After deletion the labwork2 file, the softlink doesn't show the contents, because it's simply a link to a file, which is deleted. Hardlink is still present with all contents.
 
-7.<img src="screenshots/25.png">
+7.
+<img src="screenshots/25.png">
 
 8.I determined which partitions are mounted and types of the partitions using df -h and lsblk commands
 
-9.<img src="screenshots/29.png">
+9.
+<img src="screenshots/29.png">
 
 10.I used find /etc -name host* to find all files in the /etc directory containing the 
 host character sequence
@@ -76,7 +83,8 @@ After ^ symbol you need to write a symbol that refers to a file type (for exampl
 
 Here is the list of file types and also symbols referring to them: regular file(-), directory(d), link file(l), character device file(c), local socket file(s), named pipe file(p), block device file(b).
 
-15.<img src="screenshots/24.png">
+15.
+<img src="screenshots/24.png">
 
 
 
