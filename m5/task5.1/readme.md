@@ -74,7 +74,7 @@ or simpler way: find /etc -iname “ss” or grep -rl ss /etc
 
 However, the overall output would differ slightly
 
-12.<a href="12.html">Here</a> is a screen-by-screen print of the contents of the /etc directory
+12.<a href="12.md">Here</a> is a screen-by-screen print of the contents of the /etc directory
 
 13.There are 3 types of devices on Linux: 1.character, 2.block, 3.network devices. You can define the type of device using sysfs directory. Also you can use these commands: hdparm (info about sata devices), lsblk (shows block devices), lsscsi (lists scsi devices) and lspci.
 
