@@ -56,6 +56,7 @@ When you need to define nesting levels quantity (for example 2), you might use t
 <img src="screenshots/22.png">
 <img src="screenshots/23.png">
 After deletion the labwork2 file, the softlink doesn't show the contents, because it's simply a link to a file, which is deleted. Hardlink is still present with all contents.
+Simple, softlinks work like usual links to files and hardlinks work like backup files. Also softlinks can cross the file system and can link between directories, while hardlinks can't do it. Inodes and permissions of the softlink differ from the ones in original file, as well. 
 
 7.
 <img src="screenshots/25.png">
