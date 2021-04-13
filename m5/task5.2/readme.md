@@ -128,6 +128,7 @@ Octal value : Permission
 
 
 16.Sticky bit is used to prevent other users from folder or file deletion, even though, they may have permissions to do so. There are two ways to set sticky bit on a folder or a file:
+
 <img src="screenshots/7.png">
 <img src="screenshots/8.png">
 
