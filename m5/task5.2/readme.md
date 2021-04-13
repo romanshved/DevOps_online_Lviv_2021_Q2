@@ -12,12 +12,12 @@ Users usually have /bin/bash written in the shell field, while pseudo-users (lik
 
 2.UID renge is up to 65535. UID states for unique id of the user in the system. It can be found in the third field in the line:
 
-<img src="screenshots/1_2.png">
+<img src="screenshots/1_2.jpg">
 
 
 3.GID states for group id to which a user belongs. You can find it in the 4th field:
 
-<img src="screenshots/1_3.png">
+<img src="screenshots/1_3.jpg">
 
 
 4.You can define user affiliation to a group using previous command cat /etc/passwd and search for the 4th field in each line or you can view contents of the /etc/group directory. 
