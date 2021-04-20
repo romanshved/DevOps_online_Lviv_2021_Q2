@@ -64,7 +64,7 @@ To unlock a user in this case return the shell to the old one.
 <img src="screenshots/4.png">
 
 
-11.
+11.Type of file and permissions; number of links to the file; owner of the file; group owner of the file; size of the file in bytes; last modified date and time of the file; file name
 
 
 12.There are 3 types of access rights: read, write and execute for three roles (owner, group and other)
@@ -133,4 +133,32 @@ Octal value : Permission
 <img src="screenshots/8.png">
 
 
-17.
+17.For ext2 and ext3 file systems, the e2fsprogs package contains the programs lsattr and chattr that list and change a file's attributes, respectively. Though some are not honored by all file systems, the available attributes are:
+
+a: append only
+
+c: compressed
+
+d: no dump
+
+e: extent format
+
+i: immutable
+
+j: data journalling
+
+s: secure deletion
+
+t: no tail-merging
+
+u: undeletable
+
+A: no atime updates
+
+C: no copy on write
+
+D: synchronous directory updates
+
+S: synchronous updates
+
+T: top of directory hierarchy
