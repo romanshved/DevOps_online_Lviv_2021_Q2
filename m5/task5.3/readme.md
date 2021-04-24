@@ -100,5 +100,21 @@ nohub is a command used to ignore HUP signal.
 
 Part 2
 
-1.
 
+1.
+<img src="screenshots/11.png">
+<img src="screenshots/12.png">
+
+
+2.<a href="part2-2.md">Screenshots here</a>
+
+
+3.<a href="part2-3.md">Screenshots here</a>
+
+
+4.
+<img src="screenshots/21.png">
+<img src="screenshots/21a.png">
+
+
+5.<a href="part2-5.md">Screenshots here</a>
