@@ -20,7 +20,6 @@ Part B
 
 4.What non-existent pages were clients referred to?
 
-<img src="screenshots/4.png">
 <img src="screenshots/5.png">
 
 5.What time did site get the most requests?
