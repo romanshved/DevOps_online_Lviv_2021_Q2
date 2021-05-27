@@ -28,5 +28,7 @@ Simple job with deploy using Publish Over SSH
 Simple job with deploy using Publish Over SSH
 <img src="screenshots/9.png">
 
-
-остальное я уже доделываю, не бейте, пожалуйста
+Job with Ant and Git
+<img src="screenshots/10.png">
+<img src="screenshots/11.png">
+<img src="screenshots/13.png">
